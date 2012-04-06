@@ -29,7 +29,7 @@ public class mod_StarterKit extends BaseModMp {
 
 	@Override
 	public String getVersion() {
-		return "[1.2.3] StarterKit 0.0.1";
+		return "[1.2.5] StarterKit 0.0.2";
 	}
 
 	@Override
